@@ -1,0 +1,82 @@
+
+Load for five secs: 5%/1%; one minute: 5%; five minutes: 5%
+Time source is NTP, 08:02:20.153 MET Wed Jan 25 2017
+
+
+Port      Name               Status       Vlan       Duplex  Speed Type
+Gi1/1                        disabled     routed       full   1000 No Gbic
+Gi1/2                        disabled     trunk        full   1000 No Gbic
+Gi1/3                        disabled     trunk        full   1000 No Gbic
+Gi1/4                        disabled     trunk        full   1000 No Gbic
+Gi1/5                        disabled     trunk        full   1000 No Gbic
+Gi1/6     name1              connected    trunk        full   1000 1000BaseLH
+Gi1/7                        disabled     1            full   1000 1000BaseLH
+Gi1/8                        notconnect   1            full   1000 1000BaseLH
+Gi1/9                        disabled     trunk        full   1000 No Gbic
+Gi1/10/2                     disabled     trunk        full   1000 1000BaseLH
+Gi1/11                       disabled     trunk        full   1000 1000BaseLH
+Gi1/12                       disabled     trunk        full   1000 1000BaseLH
+Gi1/13                       disabled     trunk        full   1000 No Gbic
+Gi1/14                       disabled     trunk        full   1000 No Gbic
+Gi1/15                       disabled     trunk        full   1000 No Gbic
+Gi1/16                       disabled     trunk        full   1000 No Gbic
+Gi1/17                       disabled     trunk        full   1000 No Gbic
+Gi1/18                       disabled     trunk        full   1000 No Gbic
+Gi1/19    name2              connected    trunk        full   1000 1000BaseLH
+Gi1/20                       disabled     trunk        full   1000 1000BaseLH
+Gi1/21    name3              notconnect   trunk        full   1000 No Gbic
+Gi1/22                       disabled     trunk        full   1000 1000BaseLH
+Gi1/23                       disabled     trunk        full   1000 No Gbic
+Gi1/24                       disabled     trunk        full   1000 No Gbic
+Gi2/1                        disabled     trunk        full   1000 1000BaseLH
+Gi2/2     name4,             disabled     trunk        full   1000 1000BaseLH
+Gi2/3                        disabled     trunk        full   1000 1000BaseLH
+Gi2/4                        disabled     trunk        full   1000 No Gbic
+Gi2/5                        disabled     trunk        full   1000 No Gbic
+Gi2/6                        disabled     trunk        full   1000 No Gbic
+Gi2/7                        disabled     trunk        full   1000 No Gbic
+Gi2/8     **Reserved for XYZ notconnect   1            full   1000 No Gbic
+Gi2/9     **Reserved for XYZ disabled     trunk        full   1000 No Gbic
+Gi2/10    **Reserved for XYZ notconnect   1            full   1000 No Gbic
+Gi2/11                       notconnect   1            full   1000 No Gbic
+Gi2/12                       notconnect   1            full   1000 No Gbic
+Gi2/13                       notconnect   1            full   1000 No Gbic
+Gi2/14                       disabled     trunk        full   1000 1000BaseSX
+Gi2/15                       notconnect   1            full   1000 No Gbic
+Gi2/16                       notconnect   1            full   1000 No Gbic
+Gi2/17                       notconnect   1            full   1000 No Gbic
+
+Port      Name               Status       Vlan       Duplex  Speed Type
+Gi2/18                       disabled     trunk        full   1000 No Gbic
+Gi2/19                       notconnect   1            full   1000 No Gbic
+Gi2/20                       notconnect   1            full   1000 No Gbic
+Gi2/21                       notconnect   1            full   1000 No Gbic
+Gi2/22                       disabled     trunk        full   1000 No Gbic
+Gi2/23                       notconnect   1            full   1000 No Gbic
+Gi2/24                       notconnect   1            full   1000 No Gbic
+Gi3/1                        disabled     trunk        full   1000 1000BaseLH
+Gi3/2                        disabled     trunk        full   1000 No Gbic
+Gi3/3                        disabled     trunk        full   1000 No Gbic
+Gi3/4                        disabled     trunk        full   1000 No Gbic
+Gi3/5                        disabled     trunk        full   1000 No Gbic
+Gi3/6                        disabled     trunk        full   1000 No Gbic
+Gi4/1                        disabled     trunk        full   1000 1000BaseLH
+Gi4/2                        disabled     trunk        full   1000 No Gbic
+Gi4/3     name5              disabled     trunk        full   1000 1000BaseLH
+Gi4/4                        disabled     trunk        full   1000 1000BaseLH
+Gi4/5                        disabled     trunk        full   1000 No Gbic
+Gi4/6                        disabled     trunk        full   1000 No Gbic
+Te5/1     name6              connected    trunk        full    10G 10GBase-LR
+Te5/2     name7              connected    trunk        full    10G 10GBase-LR
+Te5/3                        disabled     trunk        full   auto No XCVR
+Te5/4                        disabled     trunk        full   auto No XCVR
+Te6/1     name8              connected    trunk        full    10G 10GBase-LR
+Te6/2     name9              disabled     trunk        full   auto 10GBase-LR
+Te6/3                        disabled     trunk        full   auto No XCVR
+Te6/4                        disabled     trunk        full   auto No XCVR
+Gi7/1                        notconnect   trunk        full   1000 1000BaseLH
+Gi7/2                        disabled     trunk        full   1000 1000BaseLH
+Gi7/3                        disabled     trunk        full   1000 No Gbic
+Gi7/4                        disabled     trunk        full   1000 No Gbic
+Gi7/5                        disabled     trunk        full   1000 No Gbic
+Gi7/6     name10             disabled     routed     a-full a-1000 10/100/1000-TX
